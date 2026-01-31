@@ -38,25 +38,15 @@ The project is part of the **Udemy – 100 Days of Code: The Complete Python Pro
 
 ## Example Usage 🧠
 
+```text
 What's the first number?: 10
-
 +
-
 -
-
 *
-
 /
-
-
 Pick an operation: *
-
-
 What's the next number?: 5
-
-
 10.0 * 5.0 = 50.0
-
-
 Type 'y' to continue calculating with 50.0 or 'n' to start new calculation: y
+```
 
