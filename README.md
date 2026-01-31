@@ -37,11 +37,23 @@ The project is part of the **Udemy – 100 Days of Code: The Complete Python Pro
 ---
 
 ##Example Usage 🧠
+##How It Works ▶️
+
+1. The program prints a calculator logo.
+2. The user enters the first number.
+3. The user selects an operation (`+`, `-`, `*`, `/`).
+4. The user enters the next number.
+5. The program calculates and prints the result.
+6. The user can choose to:
+   - Continue calculating with the current result
+   - End the program and start a new calculation manually
+
+---
+
+##Example Usage 🧠
 
 What's the first number?: 10
 +
--
-*
 /
 Pick an operation: *
 What's the next number?: 5
